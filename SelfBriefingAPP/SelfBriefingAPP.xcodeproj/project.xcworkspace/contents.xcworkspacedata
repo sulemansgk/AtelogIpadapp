@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Images"
+      name = "Images">
+      <Group
+         location = "container:"
+         name = "New Group">
+      </Group>
+      <Group
+         location = "group:Background"
+         name = "Background">
+         <FileRef
+            location = "group:splashscreen.png">
+         </FileRef>
+         <FileRef
+            location = "group:slide1.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:Background.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:checklist (1).png">
+      </FileRef>
+      <FileRef
+         location = "group:computer-screen.png">
+      </FileRef>
+      <FileRef
+         location = "group:home (5).png">
+      </FileRef>
+      <FileRef
+         location = "group:home (4).png">
+      </FileRef>
+      <FileRef
+         location = "group:ErrorLogs.png">
+      </FileRef>
+      <FileRef
+         location = "group:Instructions.png">
+      </FileRef>
+      <FileRef
+         location = "group:Logs.png">
+      </FileRef>
+      <FileRef
+         location = "group:announcement (4).png">
+      </FileRef>
+      <FileRef
+         location = "group:announcement (5).png">
+      </FileRef>
+      <FileRef
+         location = "group:run.png">
+      </FileRef>
+      <FileRef
+         location = "group:announcement (6).png">
+      </FileRef>
+      <FileRef
+         location = "group:electronics.png">
+      </FileRef>
+      <FileRef
+         location = "group:UserDetails.png">
+      </FileRef>
+      <FileRef
+         location = "group:Runway.png">
+      </FileRef>
+      <FileRef
+         location = "group:checklist (3).png">
+      </FileRef>
+      <Group
+         location = "group:assets"
+         name = "assets">
+         <FileRef
+            location = "group:place holder.png">
+         </FileRef>
+         <FileRef
+            location = "group:logout.png">
+         </FileRef>
+         <FileRef
+            location = "group:user.png">
+         </FileRef>
+         <FileRef
+            location = "group:HR LINE.png">
+         </FileRef>
+         <FileRef
+            location = "group:rightbar.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:home (6).png">
+      </FileRef>
+      <FileRef
+         location = "group:checklist (2).png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:SelfBriefingAPP.xcodeproj">
+   </FileRef>
+</Workspace>

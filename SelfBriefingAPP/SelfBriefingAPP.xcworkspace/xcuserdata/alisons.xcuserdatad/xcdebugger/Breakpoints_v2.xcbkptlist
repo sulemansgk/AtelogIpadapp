@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/Controller/InstructionDocumentC.swift"
+            timestampString = "587658270.697539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionDocumentVC.swift"
+            timestampString = "588489343.972404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/DashboardVC.swift"
+            timestampString = "588489343.972622"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionDocumentVC.swift"
+            timestampString = "588489343.972723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "DATA()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionDocumentVC.swift"
+            timestampString = "588489343.972801"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "DATA()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.InstructionDocC.DATA() -&gt; ()"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/View/InstructionDocumentVC.swift"
+                  timestampString = "587735576.10153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1175">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in SelfBriefingAPP.InstructionDocC.DATA() -&gt; ()"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/View/InstructionDocumentVC.swift"
+                  timestampString = "587735576.104705"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionDocumentVC.swift"
+            timestampString = "588489343.972867"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "DATA()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionDocumentVC.swift"
+            timestampString = "588489343.97293"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "DATA()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionViewVC.swift"
+            timestampString = "588258453.229533"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "Marked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionViewVC.swift"
+            timestampString = "588258453.229627"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "InstructionViewVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/View/InstructionViewVC.swift"
+            timestampString = "588258453.229697"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "InstructionViewVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/Controller/pdfCell.swift"
+            timestampString = "588232830.607005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "pdfCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.pdfview.getter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230165.4004329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.pdfview.setter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230165.403224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.init(frame: __C.CGRect) -&gt; SelfBriefingAPP.pdfCell"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230165.405702"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SelfBriefingAPP.pdfCell&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230165.408435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfBriefingAPP/Controller/pdfCell.swift"
+            timestampString = "588232830.6081541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "pdfCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.pdfname.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230246.045872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.pdfname.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230246.049614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.init(frame: __C.CGRect) -&gt; SelfBriefingAPP.pdfCell"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230246.0530601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfBriefingAPP.pdfCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SelfBriefingAPP.pdfCell&gt;"
+                  moduleName = "SelfBriefingAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/local%20disk%201/Ipad/SelfBriefingapp/SelfBriefingAPP/SelfBriefingAPP/Controller/pdfCell.swift"
+                  timestampString = "588230246.0563509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
